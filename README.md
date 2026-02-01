@@ -16,6 +16,13 @@ A comprehensive statistical analysis of Serie A matches from 2020-2025 seasons.
 
 ---
 
+## 📈 Progress:
+- Preprocessing ✅ `data_load_and_preprocessing.ipynb`
+- Season Tables ✅ `season_tables.ipynb`
+- xG Analysis [in progress] `xG_analysis.ipynb`
+- Statistical Tests ✅ `stat_tests.ipynb`
+- Performance and attendance
+
 ## 🔧 Data Preprocessing and Cleanup
 
 Data loading, cleaning, and transformation to prepare the dataset for analysis.
